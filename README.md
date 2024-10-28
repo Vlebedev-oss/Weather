@@ -1,5 +1,5 @@
 # Weather
-Проект для регулярного забора данных о погоде через API https://openweathermap.org/ 
+Проект для регулярного забора данных о погоде через API [https://openweathermap.org/ ](погоды)
 , их парсинг и хранение с использованием: Python, Apache Airflow, PostgreSQL.
 
 ## Цели
