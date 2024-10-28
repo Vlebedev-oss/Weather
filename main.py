@@ -24,6 +24,7 @@ except requests.exceptions.Timeout:
 except requests.exceptions.RequestException as e:
     print(f"Произошла ошибка: {e}")
 
+
 # Переделать функцию под текущие реалии
 def get_info_about_weather(answer: dict) -> dict:
     """
